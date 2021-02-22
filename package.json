@@ -1,0 +1,18 @@
+{
+  "name": "vue3-compiler-sfc",
+  "version": "1.0.0",
+  "description": "compiler for vue sfc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "compiler",
+    "sfc",
+    "vue-next"
+  ],
+  "repository": "https: //github.com/rockboom/vue3-compiler-sfc.git",
+  "author": "",
+  "license": "ISC"
+}
