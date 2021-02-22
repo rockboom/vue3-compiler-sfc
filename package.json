@@ -14,5 +14,8 @@
   ],
   "repository": "https: //github.com/rockboom/vue3-compiler-sfc.git",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.0.5"
+  }
 }
