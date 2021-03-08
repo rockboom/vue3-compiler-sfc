@@ -1,6 +1,6 @@
 {
   "name": "vue3-simple-compiler-sfc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "compiler for vue sfc",
   "main": "src/index.js",
   "scripts": {
