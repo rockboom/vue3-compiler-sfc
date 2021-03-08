@@ -2,7 +2,7 @@
   "name": "vue3-simple-compiler-sfc",
   "version": "1.0.1",
   "description": "compiler for vue sfc",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
